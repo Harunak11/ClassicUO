@@ -764,7 +764,7 @@ namespace ClassicUO.Game.Data
                     53,
                     new SpellDefinition
                     (
-                        "Mana Vampire",
+                        "Energy Vortex",
                         53,
                         0x1B8c,
                         "Ort Sanct",
@@ -824,7 +824,7 @@ namespace ClassicUO.Game.Data
                     57,
                     new SpellDefinition
                     (
-                        "Earthquake",
+                        "MeteoStrike",
                         57,
                         0x1B90,
                         "In Vas Por",
@@ -839,7 +839,7 @@ namespace ClassicUO.Game.Data
                     58,
                     new SpellDefinition
                     (
-                        "Energy Vortex",
+                        "High SummonMonster",
                         58,
                         0x1B91,
                         "Vas Corp Por",
@@ -868,7 +868,7 @@ namespace ClassicUO.Game.Data
                     60,
                     new SpellDefinition
                     (
-                        "Air Elemental",
+                        "ColuseoHeal",
                         60,
                         0x1B93,
                         "Kal Vas Xen Hur",
@@ -897,7 +897,7 @@ namespace ClassicUO.Game.Data
                     62,
                     new SpellDefinition
                     (
-                        "Earth Elemental",
+                        "PerfectHeal",
                         62,
                         0x1B95,
                         "Kal Vas Xen Ylem",
@@ -911,7 +911,7 @@ namespace ClassicUO.Game.Data
                     63,
                     new SpellDefinition
                     (
-                        "Fire Elemental",
+                        "Assumptio",
                         63,
                         0x1B96,
                         "Kal Vas Xen Flam",
